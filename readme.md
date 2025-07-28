@@ -1,22 +1,22 @@
-** Project Overview **
+# Project Overview 
 
-** Features  **
+# Features  
 
-** Prerequisites **
+# Prerequisites
 
-** Installation **
+# Installation
 
-** Configuration **
+# Configuration 
 
-** Usage ** 
+# Usage 
 
-** Demo Mode **
+# Demo Mode 
 
-** Troubleshooting (Common issues) **
+# Troubleshooting (Common issues) 
 
-** Future Enhancements **
+# Future Enhancements 
 
-** References (CISA, NIST, Microsoft Docs) ** 
+# References (CISA, NIST) 
 
 
 
